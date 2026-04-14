@@ -1,0 +1,12 @@
+title: Hectic Eternity KH1
+originalAuthor: dallin1016
+description: "Replaces One Winged Angel with HMK's Keyblade, Hectic Eternity"
+assets:
+- name: remastered/xw_ex_5200.wpn/-244c0.cvbl
+  method: copy
+  source:
+  - name: -244c0.cvbl
+- name: remastered/xw_ex_5200.wpn/-245c0.dds
+  method: copy
+  source:
+  - name: -0.dds
